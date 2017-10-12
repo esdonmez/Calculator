@@ -1,5 +1,5 @@
 # Calculator
-Calculator project with Swift 3.
+Calculator project with Swift 4.
 
 Elif Seray Donmez
 Onur Celik
